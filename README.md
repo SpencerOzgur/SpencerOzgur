@@ -1,5 +1,6 @@
-## Welcome to my github! 👋
+# 🧠 Spencer Ozgur
 
+**`Quantitative Researcher | Columbia M.S. in Financial Engineering`**
 <!--
 **SpencerOzgur/SpencerOzgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
