@@ -1,6 +1,6 @@
 # 🧠 Spencer Ozgur
 
-I am a Master's student in Financial Engineering at Columbia University with interests in systematic trading, market microstructure, stochastic control, optimization, and machine learning.
+I am a Master's student in Financial Engineering at Columbia University with interests in trading, market microstructure, stochastic control, optimization, and machine learning.
 
 My work focuses on:
 - execution and market making systems
