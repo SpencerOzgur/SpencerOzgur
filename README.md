@@ -38,7 +38,7 @@ My work centers on building quantitative research systems for:
 
 ## 🚀 Selected Projects
 
-### 📊 High-Frequency Market Making Engine
+### 📊 [High-Frequency Market Making Engine](https://github.com/SpencerOzgur/Optimal-High-Frequency-Market-Making-With-Robust-Backtesting)
 
 Implementation and extension of the **Avellaneda-Stoikov market making framework** using real WRDS TAQ trade data.
 
@@ -62,7 +62,7 @@ Research framework for optimal execution in competitive markets with heterogeneo
 
 ---
 
-### 🎲 Sequential Monte Carlo & Filtering
+### 🎲 [Sequential Monte Carlo & Filtering](https://github.com/SpencerOzgur/Particle-Filter-Monte-Carlo)
 
 Monte Carlo simulation project focused on Bayesian filtering and latent state estimation.
 
