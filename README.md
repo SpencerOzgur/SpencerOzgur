@@ -50,7 +50,7 @@ Implementation and extension of the **Avellaneda-Stoikov market making framework
 
 ---
 
-### 🧩 Algorithmic Trading via Mean Field Games
+### 🧩 [Algorithmic Trading via Mean Field Games](https://github.com/SpencerOzgur/Mean-Field-Game-Simulation-for-Optimal-Execution)
 
 Research framework for optimal execution in competitive markets with heterogeneous agents.
 
